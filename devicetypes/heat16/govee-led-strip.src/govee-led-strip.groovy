@@ -11,7 +11,7 @@
  */
 metadata {
 	definition (
-		name: "Govee LED Strips (DBDEV)",
+		name: "Govee LED Strip",
 		namespace: "heat16",
 		author: "Dean Berman",
 		description: "Govee LED Strips Integration",
