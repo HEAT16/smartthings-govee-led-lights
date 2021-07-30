@@ -12,7 +12,7 @@
 metadata {
 	definition (
 		name: "Govee LED Strips (DBDEV)",
-		namespace: "dbdevelopment",
+		namespace: "HEAT16",
 		author: "Dean Berman",
 		description: "Govee LED Strips Integration",
 		category: "My Apps",
